@@ -1,6 +1,6 @@
 name: library_teimosinhos
 description: Library Teimosinhos
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/josiasmartins/flutter_library_teimosinhos
 
 environment:
@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  http: ^1.1.0
 
 dev_dependencies:
   flutter_test:
